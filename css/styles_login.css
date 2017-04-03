@@ -12,7 +12,6 @@ html:before {
     z-index: -1;
     opacity: .8;
     background-image: url("https://github.com/gaimsfitness/ClubReady/blob/master/CR%20white%20w_logo%20background.jpg?raw=true");
-
 /*https://github.com/bar1792/clubready/blob/master/ClubReady%20Background.png?raw=true");*/
 /* Old Image */
 /*https://github.com/bar1792/clubready/blob/master/Clubready%20background%20(1).jpg?raw=true");*/
@@ -37,18 +36,21 @@ font-family: 'Russo One', sans-serif;
 margin: 10vh auto;
 }
 @media (min-width:320px)  { 
-	
+	 background-image: url("https://github.com/gaimsfitness/ClubReady/blob/master/Light%20Blue%20GO%20Logo%20PNG%20(translucent%20inner%20go%20lettering).png?raw=true");
+
     
 	}/* smartphones, iPhone, portrait 480x320 phones */ }
 @media (min-width:481px)  {
+ background-image: url("https://github.com/gaimsfitness/ClubReady/blob/master/Light%20Blue%20GO%20Logo%20PNG%20(translucent%20inner%20go%20lettering).png?raw=true");
 
     
 	} /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
 @media (min-width:641px)  { 
-
+ background-image: url("https://github.com/gaimsfitness/ClubReady/blob/master/Light%20Blue%20GO%20Logo%20PNG%20(translucent%20inner%20go%20lettering).png?raw=true");
     
 	}/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
 @media (min-width:961px)  { 
+ background-image: url("https://github.com/gaimsfitness/ClubReady/blob/master/Light%20Blue%20GO%20Logo%20PNG%20(translucent%20inner%20go%20lettering).png?raw=true");
 
     
 	}/* tablet, landscape iPad, lo-res laptops ands desktops */ }
